@@ -1,8 +1,6 @@
-Hana Hyder, 999832651
-hhyder@ucdavis.edu
-HW #4
+Hello! This program constructs smooth C1-continuous bezier curves. The output of heart.txt input file is shown in the Screenshots.
+The other screenshot shows the manipulation.
 
-Hello!
 
 To compile the program:
   Just type "make" and enter
