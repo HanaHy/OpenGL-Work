@@ -23,8 +23,3 @@ When exiting the program:
 
 Note: Another file, heart.txt can also be used for input! :-)
 
---- SOURCES USED ---
-Used the Chap8ProgramsTxt >> "prog8BezierCurve.txt" file from the 41609-Hearn_Programs zip on SmartSite for generating the Bezier curves.
-
-Also consulted with Aaron Lewis for file reading and Javier Perez for mouse clicks.
-
