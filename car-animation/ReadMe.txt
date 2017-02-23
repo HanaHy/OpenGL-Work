@@ -1,5 +1,3 @@
-hhyder@ucdavis.edu | HANA HYDER
-
 Sources:
 Luma.obj - Obtained from: Yobi3D link: https://www.yobi3d.com/v/s7nMAKYe3L/Luma.obj
 Code for reading in obj files used from SmartSite HelloHouse.cpp
