@@ -1,2 +1,3 @@
-This program employs the Bresemham line drawing algorithm using OpenGL. Does not use built-in line drawing functionality (uses setPoint instead).
+This program employs the Bresenham line drawing algorithm using OpenGL. Does not use built-in line drawing functionality (uses setPoint instead).
 Covers all slope cases!
+My first ever OpenGL project.
